@@ -10,7 +10,7 @@ A simple and interactive dice game built as a reusable React component. The game
 - Easy to integrate into any React application.
 
 ## Demo
-![Lucky Game Preview]([http://localhost:5173])
+![Lucky Game Preview](http://localhost:5173)
 
 ## Getting Started
 
